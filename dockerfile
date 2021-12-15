@@ -1,2 +1,2 @@
 FROM busybox
-RUN ls
+RUN ls -alrt
