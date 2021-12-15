@@ -1,2 +1,2 @@
-FROM ubuntu
-RUN apt-get -y update
+FROM busybox
+RUN ls
